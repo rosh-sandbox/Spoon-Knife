@@ -1,2 +1,1 @@
-Sample feature branch
-Second commit
+Readme file of the project Spoon Knife
